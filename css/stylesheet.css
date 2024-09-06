@@ -1,0 +1,48 @@
+* {
+  margin: auto;
+  padding: 0;
+}
+
+html > body > * {
+  max-width: 90%;
+}
+
+.nav_menu {
+  position: fixed;
+  top: 2%;
+  right: 5%;
+}
+
+.nav_menu > ul > li {
+  text-align: right;
+  display: block;
+  width: 5rem;
+  padding-top: 0.5rem;
+}
+
+.footer_position {
+  position: fixed;
+  left: 2%;
+  bottom: 2%;
+}
+
+#button_nav_1 {
+  position: relative;
+  right: 1rem;
+}
+#button_nav_2 {
+  position: relative;
+  right: 2rem;
+}
+#button_nav_3 {
+  position: relative;
+  right: 3rem;
+}
+#button_nav_4 {
+  position: relative;
+  right: 4rem;
+}
+#button_nav_5 {
+  position: relative;
+  right: 5rem;
+}
